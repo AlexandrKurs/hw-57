@@ -1,12 +1,7 @@
-import Management from './container/Management.tsx';
-
+import Management from "./container/Management.tsx";
 
 const App = () => {
-  return (
-
-    <Management/>
-
-  );
+  return <Management />;
 };
 
 export default App;
