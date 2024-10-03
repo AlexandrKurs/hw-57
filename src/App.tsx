@@ -1,10 +1,12 @@
+import Management from './container/Management.tsx';
+
+
 const App = () => {
-
   return (
-    <>
-      Hello!
-    </>
-  )
 
+    <Management/>
+
+  );
 };
+
 export default App;
